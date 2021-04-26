@@ -15,7 +15,7 @@ Willing to improve and work in a strong team.
 Android Kotlin Java
 Room MVVM Firebase
 C# Python JavaScript
-SQL
+SQL Magic
 ## Code
 [leetcode](https://leetcode.com/Valentin2508247/)
 [github](https://github.com/Valentin2508247/)
